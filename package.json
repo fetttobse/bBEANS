@@ -1,6 +1,6 @@
 {
   "name": "bbeans",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Clean and simple Blog Engine.",
   "main": "index.js",
   "scripts": {
