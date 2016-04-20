@@ -1,0 +1,27 @@
+{
+  "name": "bbeans",
+  "version": "0.0.1",
+  "description": "Clean and simple Blog Engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetttobse/bBEANS.git"
+  },
+  "keywords": [
+    "Node.js",
+    "AngularJS",
+    "Bootstrap",
+    "Express.js",
+    "SQLite",
+    "Blog"
+  ],
+  "author": "fetttobse",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fetttobse/bBEANS/issues"
+  },
+  "homepage": "https://github.com/fetttobse/bBEANS#readme"
+}

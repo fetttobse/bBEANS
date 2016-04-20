@@ -1,0 +1,30 @@
+{
+  "name": "bbeans",
+  "description": "Clean and simple Blog Engine.",
+  "main": "index.js",
+  "authors": [
+    "fetttobse"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "Node.js",
+    "AngularJS",
+    "Bootstrap",
+    "Express.js",
+    "SQLite",
+    "Blog"
+  ],
+  "homepage": "https://github.com/fetttobse/bBEANS",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,5 +1,5 @@
 # Blog with the power of BEANS!
-bBEANS is a blog engine based on SQLite, Node.js, express.js, AngularJS and Bootstrap. Simple, clean, 
+bBEANS is a blog engine based on SQLite, Node.js, express.js, AngularJS and Bootstrap. Simple. clean.
 
 **IMPORTANT: This project is still in production and absolutely unfinished yet.**
 
