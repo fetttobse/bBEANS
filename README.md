@@ -1,13 +1,13 @@
-# Be mean, Blog mean!
-b_MEAN is a blog engine based on the [MEAN.js](http://meanjs.org/ "MEAN.js") Stack. Simple, clean, MEAN.
+# Blog with the power of BEANS!
+bBEANS is a blog engine based on SQLite, Node.js, express.js, AngularJS and Bootstrap. Simple, clean, 
 
 **IMPORTANT: This project is still in production and absolutely unfinished yet.**
 
 ---
 
-Why use b_MEAN? Here's the plan:
+Why use bBEANS? Here's the plan:
 
-- fast and flexible database powered by MongoDB
+- fast and flexible database powered by SQLite
 - server completely written in Javascript with node.js and express.js
 - nice and clean REST API, open for external use
 - tidy backend with Bootstrap
