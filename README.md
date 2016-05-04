@@ -14,4 +14,8 @@ Why use bBEANS? Here's the plan:
 - spicy and modern design with AngularJS
 - easy to understand, customize everything
 
+---
 
+Techniques we use:
+
+TODO
