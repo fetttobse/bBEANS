@@ -9,8 +9,9 @@ Why use bBEANS? Here's the plan:
 
 - fast and flexible database powered by SQLite
 - server completely written in Javascript with node.js and express.js
-- nice and clean REST API, open for external use
+- nice and clean REST API, easy to understand for additional use (an app maybe?)
 - tidy backend with Bootstrap
 - spicy and modern design with AngularJS
+- easy to understand, customize everything
 
 
