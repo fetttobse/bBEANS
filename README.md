@@ -1,7 +1,7 @@
 # Blog with the power of BEANS!
 bBEANS is a blog engine based on SQLite, Node.js, express.js, AngularJS and Bootstrap. Simple. clean.
 
-**IMPORTANT: This project is still in production and absolutely unfinished yet.**
+**IMPORTANT: This project is still in production and absolutely not finished yet.**
 
 ---
 
@@ -12,10 +12,11 @@ Why use bBEANS? Here's the plan:
 - nice and clean REST API, easy to understand for additional use (an app maybe?)
 - tidy backend with Bootstrap
 - spicy and modern design with AngularJS
+- simple authentification with Satellizer, using JSON Web Tokens
 - easy to understand, customize everything
 
 ---
 
-Techniques we use:
+Techniques and Packages we use:
 
-TODO
+[SQLite](https://www.sqlite.org/) - [node.js](https://nodejs.org/en/) - [Express](http://expressjs.com/de/) - [AngularJS](https://angularjs.org/) - [Bootstrap](http://getbootstrap.com/) - [Angular-UI-Router](https://github.com/angular-ui/ui-router) - [jQuery](https://jquery.com/) - [jQuery UI](http://jqueryui.com/) - [Satellizer](https://github.com/sahat/satellizer) - [Sweet Alerts](http://t4t5.github.io/sweetalert/) - [JWT](https://jwt.io/) - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - [Google Fonts](https://www.google.com/fonts)
