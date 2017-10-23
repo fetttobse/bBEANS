@@ -1,0 +1,28 @@
+{
+  "name": "bbeans",
+  "version": "0.0.1",
+  "description": "Smart and easy blog cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetttobse/bBEANS.git"
+  },
+  "keywords": [
+    "node",
+    "bootstrap",
+    "blog",
+    "cms",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "fetttobse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fetttobse/bBEANS/issues"
+  },
+  "homepage": "https://github.com/fetttobse/bBEANS#readme"
+}
